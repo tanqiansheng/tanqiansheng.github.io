@@ -1,0 +1,201 @@
+
+blockquote,body,button,dd,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,hr,input,legend,li,ol,p,pre,td,textarea,th,ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+
+
+/*.w{
+	width: 1366px;
+	margin: 0 auto;
+	background-color: #f6f6f6;
+}
+*/
+li{
+	list-style: none;
+}
+a{
+ 	text-decoration: none;	
+ 	font-size: 17px;
+ 	font-weight: 20px;
+}
+a:hover{
+	padding: 5px;
+	background-color: #f7fa00;
+}
+
+
+
+/*中间*/
+.mid{
+	width: 1213px;
+	background-color: #f6f6f6;
+	margin: 0 auto;
+
+}
+.center{
+		text-align: center;
+
+}
+.mid1 {
+	text-align: center;
+
+}
+
+.mid2{
+	text-align: center;
+	height: 280px;
+	padding-top: 60px;
+	padding-bottom: 100px;
+
+}
+
+ .mid2.span1{
+	display: block;
+	font-weight: 50px;
+	font-size: 60px;
+	padding-bottom: 25px;
+}
+ .mid2 .span2{
+	display: block;
+	font-weight: 20px;
+	font-size: 30px;
+	padding-bottom: 25px;
+	padding: 20px;
+}
+.ph li {display:  inline-block;
+	padding-right: 30px;
+	margin-bottom: 
+}
+.mid2 {
+	font-weight: 50px;
+	font-size: 60px;
+	padding-bottom: 25px;
+}
+
+
+.mid3 .span1{
+	margin-top: 30px;
+	width: 125px;
+	height: 30px;
+	display: block;
+	padding: 10px;
+	background-color: #4f4f4f;
+	text-align: center;
+	margin-left: 550px;
+	text-align: 40px;
+	color: #f0ff23;
+
+}
+.mid3 .span2{
+	display: block;
+	font-weight: 25px;
+	font-size: 40px;
+	padding: 50px;
+}
+/*.mid4 {
+	height: 550px;
+}*/
+.mid4 .span1{
+	margin-top: 30px;
+	width: 125px;
+	height: 30px;
+	display: block;
+	padding: 10px;
+	background-color: #4f4f4f;
+	text-align: center;
+	margin-left: 550px;
+	text-align: 40px;
+	color: #f0ff23;
+
+}
+.log1{
+	height: 140px;
+
+}
+.log2{
+	height: 140px;
+	
+}
+.log1 li {
+	float: left;
+	background-color: #ffffff;
+	padding-left: 30px;
+}
+.log1 li:first-child{
+	margin-left:300px;
+}
+.log2 li {
+	float: left;
+	background-color: #ffffff;
+	padding-left: 30px;
+}
+.log2 li:first-child{
+
+	margin-left:300px;
+
+}
+
+
+/*.ph li{
+	float:  left;
+}*/
+
+
+
+
+
+
+/*
+头部和底部*/
+
+.top {
+   width: 1366px;
+   height: 226px;
+	background: url(../images///shouye//图片素材/wangye_02.gif) ;
+	position: relative;
+	margin: 0 auto;
+
+}
+.top li{
+	float: left;
+	padding: 18px;
+
+}
+.color{
+	background-color: #ffe805;
+}
+.top ul{
+	position: absolute;
+	bottom: 55px;
+	right: 155px;
+}
+.bottom{
+	margin: 0 auto;
+	background: url(..//images/shouye//图片素材/底部2.png) ;
+	width: 1366px;
+   height: 198px;
+   text-align: center;
+	padding-top: 55px;
+	color: #ffffff;
+	font-size: 13px;
+	
+
+}
+
+
+.spantop{
+	display: block;
+	width: 250px;
+	height: 60px;
+	background-color: #4f4f4f;
+	text-align: center;
+	color: #f0ff23;
+	line-height: 60px;
+	font-size: 30px;
+	margin-left: 55px;
+	margin-bottom: 55px;
+
+}

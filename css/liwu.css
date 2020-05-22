@@ -1,0 +1,49 @@
+#spantop{
+	display: block;
+	width: 250px;
+	height: 60px;
+	background-color: #4f4f4f;
+	text-align: center;
+	color: #f0ff23;
+	line-height: 60px;
+	font-size: 30px;
+	margin-left: 55px;
+	margin-bottom: 55px;
+	margin-top: 30px;
+
+}
+#spandiv{
+	padding: 20px;
+	height: 100px;
+}
+.p1{
+	display: block;
+	padding: 5px;
+	font-size: 30px;
+	font-weight:40px;
+}
+.p2{
+	font-size: 20px;
+	font-weight:20px;
+}
+.div1  li{
+	display: block;
+	float: left;
+	padding: 20px;
+
+}
+.div1{
+	height: 80px;
+	padding-top: 35px;
+}
+
+.img{
+
+	height: 880px;
+
+}
+.img li {
+
+	float: left;
+	padding-left: 5px;
+}

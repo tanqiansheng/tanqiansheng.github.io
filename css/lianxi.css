@@ -1,0 +1,123 @@
+#spantop{
+	display: block;
+	width: 250px;
+	height: 60px;
+	background-color: #4f4f4f;
+	text-align: center;
+	color: #f0ff23;
+	line-height: 60px;
+	font-size: 30px;
+	margin-left: 55px;
+	margin-bottom: 55px;
+	margin-top: 30px;
+
+}
+#spandiv{
+	padding: 20px;
+	height: 100px;
+}
+.divph img{
+
+}
+
+.big{
+	height: 540px;
+
+}
+.left {
+	float: left;
+	width: 720px;
+	height: 500px;
+	overflow: hidden;
+	position: relative;
+	
+}
+.right {
+	float: right;
+	width: 410px;
+	height: 500px;
+
+}
+.gn{
+	display: block;
+	width: 250px;
+	height: 30px;
+	background-color: #4f4f4f;
+	text-align: center;
+	color: #f0ff23;
+	line-height: 30px;
+	font-size: 15px;
+	margin-left: 55px;
+	margin-bottom: 20px;
+	margin-top: 30px;
+	box-sizing: border-box;
+
+}
+.text li {
+	float: left;
+	margin-bottom: 20px;
+
+
+}
+.text input {
+
+	width: 230px;
+	height: 55px;
+	margin-right: 6px;
+}725 260 
+.te{
+	width: 725px;
+	height: 260px;
+}
+.text li:last-child input{
+	width: 710px;
+	height: 260px;
+
+}
+.send{
+	display:block;
+	width: 125px;
+	height: 40px;
+	color: #f0ff23;
+	font-size: 15px;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	background-color: #000000;
+	text-align: center;
+	line-height: 40px;
+	cursor: pointer;
+
+
+}
+.right .gn{
+	width: 125px;
+}
+.left li {white-space: nowrap;	
+	line-height: 37px;
+
+
+}
+.lianxi{
+	width: 410px; 
+	height: 40px;
+	margin-bottom: 50px;
+}
+.lianxi img {
+	float: left;
+
+}
+.h{
+	line-height: 40px;
+
+}
+.lianxi span{
+	margin-left: 20px;
+}
+.lianxi p {
+	display: block;
+	margin-left: 20px;
+
+}
+
+

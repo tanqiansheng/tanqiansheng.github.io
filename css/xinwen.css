@@ -1,0 +1,53 @@
+#spantop{
+	display: block;
+	width: 250px;
+	height: 60px;
+	background-color: #4f4f4f;
+	text-align: center;
+	color: #f0ff23;
+	line-height: 60px;
+	font-size: 30px;
+	margin-left: 55px;
+	margin-bottom: 55px;
+	margin-top: 30px;
+
+}
+#spandiv{
+	padding: 20px;
+	height: 100px;
+}
+
+h3{
+	padding: 30px;
+}
+
+.left{
+	padding-left: 50px;
+	display: inline-block;
+	width: 500px;
+	height: 810px;
+	font-size: 20px;
+	font-size: 20px;
+}
+.right{
+	display: inline-block;
+	width: 350px;
+	height: 810px;
+	float: right;
+	font-size: 20px;
+	margin-left: 150px;
+	margin-right: 150px;
+}
+.right p a {
+	color: #81d2e3;
+}
+.right p  {
+	margin: 10px;
+	
+}
+ #c1{
+	color: #e7afb8;
+}
+.right a:hover{
+	color: red;
+}
